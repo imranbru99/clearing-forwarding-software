@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "clearing-forwarding-software",
+  "description": "Clearing & Forwarding Software — Trade Logistics Laravel Filament ERP/SaaS for Bangladesh (Chittagong). C&F software for shipments, customs docs, container tracking, charges, and client billing. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "trade-logistics",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/clearing-forwarding-software"
+}
